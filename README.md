@@ -3,7 +3,7 @@
   - 🧩 Bioinformatics 
   - 🧠 Mult-omics
   - 💻 Deep learning
-- course: Master Degree (Precision health and medicine)
+- course: Msc in Precision health and medicine)
 - institution: National University of Singapore
 - year: 2024-2026
 - email: yiyingchen@u.nus.edu
